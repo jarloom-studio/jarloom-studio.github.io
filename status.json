@@ -1,5 +1,5 @@
 {
-  "verifiedAt": "2026-10-11T15:40:32.834151+03:00",
+  "verifiedAt": "2026-10-11T15:49:33.0642817+03:00",
   "candidates": 15,
   "messages": 0,
   "replies": 0,
@@ -8,11 +8,11 @@
   "purchases": 0,
   "checkout": "Inactive",
   "automation": "Not configured",
-  "currentWork": "Redesigned website prepared: five pages, six comparison sliders, Canva logo, pack planner and email enquiry form. Publication and browser checks underway.",
+  "currentWork": "Website redesign completed: five pages, six before-and-after sliders, mood filters, Canva logo, mobile menu, pack planner and email enquiry form. Checkout verification is the next launch dependency. No outreach or orders yet.",
   "nextSteps": [
-    "Finish and publish the website redesign",
     "Verify Shopier checkout",
-    "Prepare outreach with complete business contact details",
-    "Send outreach and record replies when launch prerequisites are met"
+    "Complete business contact details for outreach",
+    "Recheck and contact suitable prospects once launch prerequisites are met",
+    "Record customer replies, orders and delivery progress"
   ]
 }
