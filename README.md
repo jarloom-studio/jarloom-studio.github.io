@@ -9,3 +9,6 @@ Product briefs and adjustments use embedded Tally forms (kdD0M6 / XxVRZO), with 
 Design credits describe the trial/monthly design allowance, not a stored cash balance. Status counts are verified snapshots in status.json; the dashboard checks that file each minute while open and does not automatically read sales or inbox activity. Update verifiedAt with every verified business update.
 
 Open index.html for a local preview; use a static server for the JSON dashboard. GitHub Pages serves the published copy. Source retains ; the GitHub upload bundle flattens assets to match browser uploads.
+
+Portfolio refresh: nine fictional product types, eight ad creatives and six scene studies. New products: PACE shoe, ORBIT headphones, MESA olive oil. Prompt set saved in new-product-prompts.md; built-in image generation only. Canonical gallery is portfolio.html, with examples.html retained as an updated alias. Customer services are paid; the former trial is named Starter pack, with price unchanged at $29. Monthly pack remains $89.
+
