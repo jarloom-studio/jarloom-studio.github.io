@@ -12,3 +12,6 @@ Open index.html for a local preview; use a static server for the JSON dashboard.
 
 Portfolio refresh: nine fictional product types, eight ad creatives and six scene studies. New products: PACE shoe, ORBIT headphones, MESA olive oil. Prompt set saved in new-product-prompts.md; built-in image generation only. Canonical gallery is portfolio.html, with examples.html retained as an updated alias. Customer services are paid; the former trial is named Starter pack, with price unchanged at $29. Monthly pack remains $89.
 
+
+Luxury/fresh expansion: AUREL earrings, STILL watch and ZEST drink add six assets; prompt set luxury-fresh-prompts.md. Eleven advertising concepts, six original scene studies and twelve fictional product types. Independent campaign-style filters and an eleven-item homepage campaign carousel. No additional purchases. Public status counts25 research candidates; research is not customer interest or paid orders.
+

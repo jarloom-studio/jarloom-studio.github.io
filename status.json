@@ -1,6 +1,6 @@
 {
-  "verifiedAt": "2026-10-12T06:45:37.8551516+03:00",
-  "candidates": 15,
+  "verifiedAt": "2026-10-12T13:49:15.5715113+03:00",
+  "candidates": 25,
   "messages": 0,
   "replies": 0,
   "orders": 0,
@@ -8,11 +8,11 @@
   "purchases": 0,
   "checkout": "Inactive",
   "automation": "Not configured",
-  "currentWork": "Portfolio expanded to nine fictional products: eight advertising concepts and six original scene studies. Homepage feature row now uses typography-led ad creatives. Examples renamed Portfolio; paid starter pack is $29 and monthly pack $89. Product brief and adjustment forms are connected. Checkout inactive; no outreach, customer orders or revenue yet.",
+  "currentWork": "25 unique businesses researched; ten new paid-offer drafts prepared, no messages sent. Portfolio expanded to twelve fictional product types, eleven ad campaigns and six scene studies, with quiet-luxury, fresh, bold and after-dark filters. Product brief and adjustment forms remain connected. Shopier activation and checkout are unverified; no customer replies, paid orders or revenue.",
   "nextSteps": [
-    "Verify Shopier checkout",
-    "Complete business contact details for outreach",
-    "Recheck and contact suitable prospects once launch prerequisites are met",
-    "Record customer replies, orders and delivery progress"
+    "Complete Shopier activation and verify international checkout",
+    "Complete business sender details and review outreach eligibility",
+    "Recheck the highest-fit prospects and send individually within the agreed launch scope",
+    "Record customer replies, paid orders and delivery progress"
   ]
 }
